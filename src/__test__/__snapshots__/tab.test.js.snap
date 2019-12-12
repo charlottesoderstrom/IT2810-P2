@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tab renders 1`] = `
+<div
+  className="tab-container"
+>
+  <button
+    id="Gallery1"
+    onClick={[Function]}
+  >
+     Gallery 1 
+  </button>
+  <button
+    id="Gallery2"
+    onClick={[Function]}
+  >
+    Gallery 2
+  </button>
+  <button
+    id="Gallery3"
+    onClick={[Function]}
+  >
+    Gallery 3
+  </button>
+  <button
+    id="Gallery4"
+    onClick={[Function]}
+  >
+    Gallery 4
+  </button>
+</div>
+`;
+
+exports[`main renders 1`] = `<main />`;
